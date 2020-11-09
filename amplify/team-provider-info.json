@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ffxiveventcalendar-dev-194655-authRole",
+      "UnauthRoleArn": "arn:aws:iam::492022549341:role/amplify-ffxiveventcalendar-dev-194655-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::492022549341:role/amplify-ffxiveventcalendar-dev-194655-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-ffxiveventcalendar-dev-194655-deployment",
+      "UnauthRoleName": "amplify-ffxiveventcalendar-dev-194655-unauthRole",
+      "StackName": "amplify-ffxiveventcalendar-dev-194655",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:492022549341:stack/amplify-ffxiveventcalendar-dev-194655/e4597560-2278-11eb-9d90-0ef20c62874e",
+      "AmplifyAppId": "d2qlm8pvl5yz5x"
+    }
+  }
+}
